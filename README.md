@@ -1,2 +1,2 @@
 # Alura
-Projeto referente aos estudos da Alura
+Projeto referente aos estudos na Alura
